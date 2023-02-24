@@ -42,3 +42,20 @@ img {
   align-items: center;
   justify-content: space-around;
 }
+
+.players {
+  width: 80%;
+  height: 90%;
+  border: 10px solid rgb(17, 9, 37);
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.player {
+  display: flex;
+  align-items: center;
+  width: 40%;
+  height: 80%;
+}
